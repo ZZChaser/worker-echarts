@@ -1,6 +1,5 @@
 {
   "name": "worker-echarts",
-  "private": false,
   "main": "./src/index.ts",
   "scripts": {
     "prepack": "tsc -b"
